@@ -1,0 +1,4 @@
+f4dcd3,::1,GET,http://localhost:8888/ldap_project/web/app_dev.php/login,1447171570,
+6fdfcc,::1,POST,http://localhost:8888/ldap_project/web/app_dev.php/login_check,1447171582,
+7561f0,::1,GET,http://localhost:8888/ldap_project/web/app_dev.php/login,1447171583,
+6c56ca,::1,GET,http://localhost:8888/ldap_project/web/app_dev.php/login,1447201331,

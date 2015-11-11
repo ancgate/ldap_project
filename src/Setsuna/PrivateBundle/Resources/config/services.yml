@@ -1,0 +1,7 @@
+parameters:
+#    setsuna_private.example.class: Setsuna\PrivateBundle\Example
+
+services:
+#    setsuna_private.example:
+#        class: %setsuna_private.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
